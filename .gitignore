@@ -1,0 +1,12 @@
+backup/
+Google-Patents-Scraper/
+image_downloads/
+images_test/
+json_data/
+google-patents/
+research/
+scrape/
+tsv/
+
+patents_db.sqlite3
+*.sqlite3
